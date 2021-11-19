@@ -1,7 +1,6 @@
 package dev.sasukector.slaves.controllers;
 
 import dev.sasukector.slaves.Slaves;
-import dev.sasukector.slaves.events.PointsController;
 import dev.sasukector.slaves.helpers.FastBoard;
 import lombok.Getter;
 import lombok.Setter;

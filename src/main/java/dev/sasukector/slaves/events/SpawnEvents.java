@@ -3,6 +3,7 @@ package dev.sasukector.slaves.events;
 import dev.sasukector.slaves.Slaves;
 import dev.sasukector.slaves.controllers.BoardController;
 import dev.sasukector.slaves.controllers.GameController;
+import dev.sasukector.slaves.controllers.PointsController;
 import dev.sasukector.slaves.controllers.TeamsController;
 import dev.sasukector.slaves.helpers.ServerUtilities;
 import net.kyori.adventure.text.Component;

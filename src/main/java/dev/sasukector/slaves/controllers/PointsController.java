@@ -1,10 +1,9 @@
-package dev.sasukector.slaves.events;
+package dev.sasukector.slaves.controllers;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import dev.sasukector.slaves.Slaves;
-import dev.sasukector.slaves.controllers.TeamsController;
 import lombok.Getter;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

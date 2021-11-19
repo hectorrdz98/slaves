@@ -1,6 +1,6 @@
 package dev.sasukector.slaves.commands;
 
-import dev.sasukector.slaves.events.PointsController;
+import dev.sasukector.slaves.controllers.PointsController;
 import dev.sasukector.slaves.helpers.ServerUtilities;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.TextColor;
