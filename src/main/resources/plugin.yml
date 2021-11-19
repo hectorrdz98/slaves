@@ -1,0 +1,11 @@
+name: Slaves
+version: '${project.version}'
+main: dev.sasukector.slaves.Slaves
+api-version: 1.17
+authors: [ Sasukector ]
+description: This is the core plugin for Slaves
+website: https://sasukector.dev
+commands:
+  points:
+    description: Command to manage points
+    usage: /points [option] [suboption]
